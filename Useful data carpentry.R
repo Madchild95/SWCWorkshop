@@ -10,3 +10,6 @@ citation()
 
 #dropping the rows in tidyverse 
 d %>% filter(row_number() != 2)
+
+#importing data
+data <- read.csv("name of data file")
