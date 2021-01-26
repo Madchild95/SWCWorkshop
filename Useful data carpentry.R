@@ -1,3 +1,8 @@
+#Author of this scrpit: Matilde Jacobsen
+#working directory
+getwd()
+setwd("Desktop/SWCWorkshop/")
+
 ##--Useful things to know how to do in R --##
 
 #import citations
